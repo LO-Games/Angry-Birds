@@ -9,7 +9,7 @@
 
 • רמה 3 – החזירים יושבים בתוך בור, צריך להתאמץ לקלוע את הציפור לבור.
 
-![אנגרי בירדס](https://user-images.githubusercontent.com/73184238/234129004-6b116aaa-2431-4d50-8abc-c12baa4f4d58.PNG)
+![אנגרי בירדס](https://github.com/LO-Games/Angry-Birds/blob/main/Assets/Sprites/GameScreenshot.PNG)
 
 קישור להקלטה של המשחק ביוטיוב : https://youtu.be/qAUj9-yGCq0
 
